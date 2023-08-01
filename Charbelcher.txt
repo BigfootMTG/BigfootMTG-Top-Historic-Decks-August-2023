@@ -1,0 +1,31 @@
+Companion
+1 Zirda, the Dawnwaker (IKO) 233
+
+Deck
+4 Strike It Rich (MH2) 143
+2 Brotherhood's End (BRO) 128
+4 Faithless Looting (SIS) 40
+4 Strangle (SNC) 125
+4 Goblin Charbelcher (BRR) 18
+4 Shatterskull Smashing (ZNR) 161
+4 Spikefield Hazard (ZNR) 166
+4 Pact of Negation (AKR) 73
+4 Indomitable Creativity (KLR) 130
+4 Kazuul's Fury (ZNR) 146
+2 Seize the Spoils (KHM) 149
+4 Valakut Awakening (ZNR) 174
+4 Magma Opus (STX) 203
+4 Sea Gate Restoration (ZNR) 76
+4 Song-Mad Treachery (ZNR) 165
+4 Irencrag Feat (ELD) 127
+
+Sideboard
+2 Brotherhood's End (BRO) 128
+1 Zirda, the Dawnwaker (IKO) 233
+2 Fiery Impulse (ORI) 145
+2 Chandra, Awakened Inferno (M20) 127
+1 Chandra, Awakened Inferno (M20) 127
+1 Big Score (SNC) 102
+2 The Stone Brain (BRO) 247
+2 Stone of Erech (LTR) 251
+2 Reckless Air Strike (M20) 154

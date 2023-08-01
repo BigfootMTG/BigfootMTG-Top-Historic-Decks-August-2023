@@ -1,0 +1,35 @@
+Deck
+3 A-Cauldron Familiar (ELD) 81
+4 Delighted Halfling (LTR) 158
+2 Elvish Mystic (M14) 169
+2 Llanowar Elves (M19) 314
+4 Young Wolf (SIS) 58
+1 Hapatra, Vizier of Poisons (AKR) 238
+4 Orcish Bowmasters (LTR) 103
+4 Prosperous Innkeeper (AFR) 200
+3 Samwise Gamgee (LTR) 222
+1 Woe Strider (THB) 123
+4 Yawgmoth, Thran Physician (MH1) 116
+3 The One Ring (LTR) 246
+2 Chord of Calling (M15) 172
+3 Overgrown Tomb (GRN) 253
+1 Temple Garden (GRN) 258
+4 Razorverge Thicket (ONE) 257
+4 Mana Confluence (JOU) 163
+4 Blooming Marsh (KLR) 280
+1 Concealed Courtyard (KLR) 282
+4 Darkbore Pathway (KHM) 254
+1 Boseiju, Who Endures (NEO) 266
+1 Takenuma, Abandoned Mire (NEO) 278
+
+Sideboard
+1 A-Haywire Mite (BRO) 199
+3 Fatal Push (KLR) 84
+2 Shapers' Sanctuary (XLN) 206
+1 Thoughtseize (AKR) 127
+1 Thoughtseize (AKR) 127
+2 Scavenging Ooze (M21) 204
+1 Loran of the Third Path (BRO) 12
+2 Necromentia (M21) 116
+1 Pile On (MOM) 122
+1 Sheoldred, the Apocalypse (DMU) 107

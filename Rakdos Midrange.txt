@@ -1,0 +1,33 @@
+Deck
+1 Kroxa, Titan of Death's Hunger (THB) 221
+4 Crucias, Titan of the Waves (Y23) 18
+4 Sheoldred, the Apocalypse (DMU) 107
+4 Fatal Push (KLR) 84
+2 Heartless Act (IKO) 91
+4 Thoughtseize (AKR) 127
+3 Inquisition of Kozilek (STA) 31
+4 Fable of the Mirror-Breaker (NEO) 141
+3 Swamp (MIR) 340
+1 Sulfurous Springs (DMU) 256
+4 Blackcleave Cliffs (ONE) 248
+1 Castle Locthwain (ELD) 241
+4 Blightstep Pathway (KHM) 252
+2 Den of the Bugbear (AFR) 254
+2 Hive of the Eye Tyrant (AFR) 258
+3 Haunted Ridge (MID) 263
+4 Blood Crypt (RNA) 245
+1 Takenuma, Abandoned Mire (NEO) 278
+4 The One Ring (LTR) 246
+4 Orcish Bowmasters (LTR) 103
+1 Invoke Despair (NEO) 101
+
+Sideboard
+1 Go for the Throat (BRO) 102
+1 Abrade (VOW) 139
+2 Go Blank (STX) 72
+2 Unlicensed Hearse (SNC) 246
+1 Kroxa, Titan of Death's Hunger (THB) 221
+3 Brotherhood's End (BRO) 128
+2 Slaughter Games (RTR) 197
+2 Chandra, Torch of Defiance (KLR) 117
+1 Kroxa, Titan of Death's Hunger (THB) 221

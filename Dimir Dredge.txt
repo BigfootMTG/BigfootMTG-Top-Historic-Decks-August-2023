@@ -1,0 +1,28 @@
+Deck
+4 Merfolk Secretkeeper (ELD) 53
+2 Island (LTR) 265
+4 Prized Amalgam (SIR) 240
+2 Swamp (LTR) 267
+4 Silversmote Ghoul (M21) 122
+4 Creeping Chill (GRN) 66
+4 Stitcher's Supplier (M19) 121
+4 Bloodghast (IMA) 82
+4 Founding the Third Path (DMU) 50
+4 Glimpse the Unthinkable (RAV) 208
+4 Narcomoeba (GRN) 47
+3 Otherworldly Gaze (MID) 67
+4 Darkslick Shores (ONE) 250
+4 Clearwater Pathway (ZNR) 260
+4 Watery Grave (GRN) 259
+3 Underground River (BRO) 267
+1 Otawara, Soaring City (NEO) 271
+1 Takenuma, Abandoned Mire (NEO) 278
+
+Sideboard
+2 Pithing Needle (MID) 257
+2 Stone of Erech (LTR) 251
+3 Thoughtseize (AKR) 127
+1 Thoughtseize (AKR) 127
+4 Fatal Push (KLR) 84
+3 Spell Pierce (NEO) 80
+

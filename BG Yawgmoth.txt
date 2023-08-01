@@ -1,0 +1,33 @@
+Deck
+4 Delighted Halfling (LTR) 158
+3 Llanowar Elves (M19) 314
+4 Young Wolf (SIS) 58
+4 A-Blood Artist (JMP) 206
+2 Hapatra, Vizier of Poisons (AKR) 238
+4 Orcish Bowmasters (LTR) 103
+2 Priest of Forgotten Gods (RNA) 83
+2 Woe Strider (THB) 123
+4 Yawgmoth, Thran Physician (MH1) 116
+2 The One Ring (LTR) 246
+4 Chord of Calling (M15) 172
+2 Eldritch Evolution (SIR) 195
+2 Tyvar, Jubilant Brawler (ONE) 218
+1 Forest (MIR) 347
+1 Swamp (MIR) 340
+2 Phyrexian Tower (JMP) 493
+1 Khalni Garden (J21) 121
+4 Overgrown Tomb (GRN) 253
+4 Blooming Marsh (KLR) 280
+1 Nurturing Peatland (MH1) 243
+4 Darkbore Pathway (KHM) 254
+1 Hive of the Eye Tyrant (AFR) 258
+1 Boseiju, Who Endures (NEO) 266
+1 Takenuma, Abandoned Mire (NEO) 278
+
+Sideboard
+2 A-Haywire Mite (BRO) 199
+4 Fatal Push (KLR) 84
+1 Thoughtseize (AKR) 127
+3 Thoughtseize (AKR) 127
+2 Cankerbloom (ONE) 161
+3 Scavenging Ooze (M21) 204

@@ -1,0 +1,33 @@
+Deck
+4 Elvish Mystic (M14) 169
+4 Llanowar Elves (M19) 314
+4 Old-Growth Troll (KHM) 185
+4 Cavalier of Thorns (M20) 167
+3 Polukranos Reborn (MOM) 200
+4 Storm the Festival (MID) 200
+4 Wolfwillow Haven (THB) 205
+1 Invasion of Ixalan (MOM) 191
+3 Leyline of Abundance (M20) 179
+4 Kiora, Behemoth Beckoner (WAR) 232
+4 Karn, the Great Creator (WAR) 1
+13 Forest (MIR) 347
+4 Nykthos, Shrine to Nyx (THS) 223
+2 Lair of the Hydra (AFR) 259
+2 Boseiju, Who Endures (NEO) 266
+
+Sideboard
+1 Shadowspear (THB) 236
+1 Darksteel Citadel (M15) 242
+1 Esika's Chariot (KHM) 169
+1 Tormod's Crypt (M21) 241
+1 Pithing Needle (MID) 257
+1 Heart of Kiran (KLR) 242
+1 Haywire Mite (BRO) 199
+1 Skysovereign, Consul Flagship (KLR) 272
+1 The Stone Brain (BRO) 247
+1 Liquimetal Coating (BRR) 28
+1 Transmogrifying Wand (M19) 247
+1 Cityscape Leveler (BRO) 233
+1 Pestilent Cauldron (STX) 154
+1 The Filigree Sylex (ONE) 227
+1 The One Ring (LTR) 246

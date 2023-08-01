@@ -1,0 +1,36 @@
+Companion
+1 Jegantha, the Wellspring (IKO) 222
+
+Deck
+1 Haunted Dead (SIR) 117
+3 Mana Confluence (JOU) 163
+4 Prized Amalgam (SIR) 240
+4 Darkslick Shores (ONE) 250
+3 Silversmote Ghoul (M21) 122
+4 Creeping Chill (GRN) 66
+4 Stitcher's Supplier (M19) 121
+4 Bloodghast (IMA) 82
+3 Founding the Third Path (DMU) 50
+4 Glimpse the Unthinkable (RAV) 208
+4 Narcomoeba (GRN) 47
+3 Otherworldly Gaze (MID) 67
+2 Overgrown Tomb (GRN) 253
+3 Blooming Marsh (KLR) 280
+1 Breeding Pool (RNA) 246
+3 Botanical Sanctum (KLR) 281
+3 Watery Grave (GRN) 259
+4 Grisly Salvage (RTR) 165
+2 Driven /// Despair (AKR) 233
+1 Haunted Dead (J21) 54
+
+Sideboard
+2 Pithing Needle (MID) 257
+1 Stone of Erech (LTR) 251
+3 Thoughtseize (AKR) 127
+1 Stone of Erech (LTR) 251
+1 Thoughtseize (AKR) 127
+2 Fatal Push (KLR) 84
+3 A-Haywire Mite (BRO) 199
+1 Boseiju, Who Endures (NEO) 266
+1 Jegantha, the Wellspring (IKO) 222
+

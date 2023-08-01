@@ -1,0 +1,30 @@
+Companion
+1 Lurrus of the Dream-Den (IKO) 226
+
+Deck
+4 Ornithopter (BRR) 37
+4 Esper Sentinel (MH2) 12
+4 Toolcraft Exemplar (KLR) 35
+4 Ingenious Smith (AFR) 21
+4 Michiko's Reign of Truth (NEO) 29
+4 Retrofitter Foundry (C18) 57
+2 Shadowspear (THB) 236
+4 Barbed Spike (MH2) 5
+4 Shrapnel Blast (M15) 161
+4 Yotia Declares War (DMU) 153
+3 Plains (MIR) 331
+4 Darksteel Citadel (M15) 242
+4 Sacred Foundry (GRN) 254
+4 Inspiring Vantage (KLR) 283
+2 Spire of Industry (KLR) 285
+4 Needleverge Pathway (ZNR) 263
+1 Eiganjo, Seat of the Empire (NEO) 268
+
+Sideboard
+1 Lurrus of the Dream-Den (IKO) 226
+1 Soul-Guide Lantern (THB) 237
+3 Cast into the Fire (LTR) 118
+2 Glass Casket (ELD) 15
+2 Glass Casket (ELD) 15
+4 Hushbringer (ELD) 18
+2 Unlicensed Hearse (SNC) 246

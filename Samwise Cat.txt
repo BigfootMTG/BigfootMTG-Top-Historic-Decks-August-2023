@@ -1,0 +1,36 @@
+Companion
+1 Jegantha, the Wellspring (IKO) 222
+
+Deck
+4 A-Cauldron Familiar (ELD) 81
+4 Delighted Halfling (LTR) 158
+3 A-Blood Artist (JMP) 206
+4 Orcish Bowmasters (LTR) 103
+3 Priest of Forgotten Gods (RNA) 83
+4 Samwise Gamgee (LTR) 222
+3 Zulaport Cutthroat (BFZ) 126
+4 Woe Strider (THB) 123
+2 The One Ring (LTR) 246
+4 Collected Company (AKR) 186
+3 Tyvar, Jubilant Brawler (ONE) 218
+1 Forest (MIR) 347
+1 Swamp (MIR) 340
+1 Caves of Koilos (DMU) 244
+3 Godless Shrine (RNA) 248
+4 Overgrown Tomb (GRN) 253
+3 Temple Garden (GRN) 258
+4 Blooming Marsh (KLR) 280
+1 Silent Clearing (MH1) 246
+3 Darkbore Pathway (KHM) 254
+1 Boseiju, Who Endures (NEO) 266
+
+Sideboard
+1 Jegantha, the Wellspring (IKO) 222
+1 A-Haywire Mite (BRO) 199
+4 Fatal Push (KLR) 84
+1 Thoughtseize (AKR) 127
+1 A-Haywire Mite (BRO) 199
+3 Thoughtseize (AKR) 127
+1 A-The Meathook Massacre (MID) 112
+2 Scavenging Ooze (M21) 204
+1 Unlicensed Hearse (SNC) 246

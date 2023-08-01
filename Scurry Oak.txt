@@ -1,0 +1,32 @@
+Deck
+2 Heliod, Sun-Crowned (THB) 18
+4 Avacyn's Pilgrim (SIS) 48
+4 Prosperous Innkeeper (HBG) 221
+4 Scurry Oak (MH2) 172
+4 Rosie Cotton of South Lane (LTR) 27
+2 Elvish Mystic (M14) 169
+4 Llanowar Elves (M19) 314
+4 Soul Warden (M10) 34
+2 Chord of Calling (M15) 172
+4 Collected Company (AKR) 186
+1 Boseiju, Who Endures (NEO) 266
+4 Temple Garden (GRN) 258
+1 Eiganjo, Seat of the Empire (NEO) 268
+4 Brushland (BRO) 259
+2 Plains (MIR) 331
+4 Razorverge Thicket (ONE) 257
+1 Castle Ardenvale (ELD) 238
+4 Branchloft Pathway (ZNR) 258
+2 Forest (MIR) 347
+3 Skyclave Apparition (ZNR) 39
+
+Sideboard
+1 Lion Sash (NEO) 26
+2 Soul-Guide Lantern (BRR) 54
+2 A-Haywire Mite (BRO) 199
+2 Fragment Reality (Y22) 4
+1 Skyclave Apparition (ZNR) 39
+2 Selfless Savior (M21) 36
+2 Serra Paragon (DMU) 32
+1 Knight of Autumn (GRN) 183
+2 Shapers' Sanctuary (XLN) 206

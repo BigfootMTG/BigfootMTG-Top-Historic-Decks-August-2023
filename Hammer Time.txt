@@ -1,0 +1,36 @@
+Companion
+1 Lurrus of the Dream-Den (IKO) 226
+
+Deck
+1 Ornithopter (KLR) 255
+3 Ornithopter (BRR) 37
+4 Kemba's Outfitter (Y23) 2
+4 Invisible Stalker (SIS) 17
+2 Kemba, Kha Enduring (ONE) 19
+3 The Reality Chip (NEO) 74
+4 Colossus Hammer (M20) 223
+4 Retrofitter Foundry (C18) 57
+2 Shadowspear (THB) 236
+4 Belt of Giant Strength (HBG) 201
+1 Plains (SIR) 279
+4 Sigarda's Aid (SIR) 43
+1 Plains (MIR) 331
+4 Hallowed Fountain (RNA) 251
+3 Breeding Pool (RNA) 246
+2 Temple Garden (GRN) 258
+4 Seachrome Coast (ONE) 258
+3 Razorverge Thicket (ONE) 257
+4 Giver of Runes (MH1) 13
+3 Waterlogged Grove (MH1) 249
+
+Sideboard
+1 Lurrus of the Dream-Den (IKO) 226
+2 Portable Hole (AFR) 33
+1 Shadowspear (THB) 236
+2 Surge of Salvation (MOM) 41
+1 Fragment Reality (Y22) 4
+1 Portable Hole (HBG) 98
+1 Mystical Dispute (ELD) 58
+1 Fragment Reality (Y22) 4
+2 Rest in Peace (AKR) 33
+3 Esper Sentinel (MH2) 12
